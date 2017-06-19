@@ -1,0 +1,190 @@
+body{
+	min-height: 100%;
+	position: relative;
+	background-image: url("pexels-photo-419735a.jpeg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-size: 110%;
+}
+
+#splash{
+	font-family: 'Monoton', cursive;
+	color: white;
+	font-size: 400%;
+	text-align: center;
+	padding-top:12%;
+	padding-bottom:12%;
+	margin: 0px;
+	border: white solid 2px;
+}
+
+#splash a:link{
+	color:gray;
+}
+
+#splash a:visited{
+	color:gray;
+}
+
+#splash a:hover{
+	color:white;
+	font-size: 110%;
+	background: none;
+}
+#splash a:active{
+	color: gold;
+}
+
+
+#splash p {
+	font-family: 'Abel', sans-serif;
+	font-size: 50%;
+}
+
+#splash a {
+	font-size: 75%;
+}
+
+#header{
+	position:center;
+	border: white solid 2px;
+	padding: 0px;
+	margin:0px;
+	font-size: 400%;
+	color: white;
+	text-align:center;
+	font-family: 'Monoton', cursive;
+}
+
+#linkbar{
+	font-family: 'Monoton', cursive;
+	border: white solid 2px;
+	margin-top: 5px;
+	padding: 5px;
+	font-size: 200%;
+	text-align: center;
+}
+
+a:link{
+	color: white;
+	text-align: center;
+	/*padding: 5px;*/
+	text-decoration: none;
+}
+a:visited{
+	color: #c1c1c1;
+	text-decoration: none;
+	/*padding: 5px;*/
+	text-align: center;
+}
+a:hover{
+	color: #fff959;
+	text-decoration: none;
+
+	text-decoration: underline;
+	/*padding: 5px;*/
+	text-align: center;
+}
+
+a:active{
+	color: gold;
+	text-decoration: none;
+	/*padding: 5px;*/
+	text-align: center;
+}
+
+
+
+.photo{
+	position: relative;
+	width:40%;
+	height: 40%;
+	margin: 10px;
+	float: right;
+	clear: left;
+	padding: 5%;
+}
+
+#employment{
+	font-family: 'Playfair Display', serif;
+	text-align: left;
+	padding-left:10%;
+	font-size: 100%;
+	color: black;
+	background-color:white;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	margin-bottom:5%;
+	margin-right: 10%;
+	padding-right:10%;
+}
+
+#education{
+	font-family: 'Playfair Display', serif;
+	text-align: left;
+	padding-left:10%;
+	font-size: 100%;
+	color: black;
+	background-color: white;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	margin-right: 10%;
+	padding-right:10%;
+}
+
+ #employment h1{
+	color:blue;
+	font-family: 'Monoton', cursive;
+}
+
+ #education h1{
+	color:blue;
+	font-family: 'Monoton', cursive;
+}
+
+#content{
+	margin-top: 10px;
+	margin-left: 10%;
+	margin-bottom: 10%;
+	color: white;
+	font-family: 'Abel', sans-serif;
+}
+
+#aboutText{
+	font-family: 'Abel', sans-serif;
+	margin-top: 10px;
+	margin-left: 10%;
+	margin-right: 20%;
+	background-color: #033B74;
+	text-align:left;
+	padding: 5%;
+	color: white;
+}
+
+#footer{
+	position: absolute;
+	margin-top: 10px;
+	width: 100%;
+	height: 60px;
+	border: 2px solid white;
+	font-family: 'Abel', sans-serif;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 0px;
+}
+
+h6{
+	padding: 0px;
+	margin: 0px
+}
+
+#inlogo{
+	position: center;
+}
+
+i {
+	position: right;
+	/*margin: 1%;*/
+}
+
